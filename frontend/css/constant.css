@@ -1,0 +1,17 @@
+/* GLOBAL STYLES */
+* {
+    background-color: #162447;
+    color: #1F4068;
+}
+
+.color-secondary{
+    color: #1F4068;
+}
+
+.background-accent {
+    background-color: #E43F5A;
+}
+
+.color-accent{
+    color: #E43F5A;
+}

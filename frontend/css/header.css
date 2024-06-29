@@ -1,0 +1,32 @@
+/* HEADER */
+#header {
+    height: 36px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+#header a {
+    text-decoration: none;
+}
+
+#header #logo {
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+/* NAVBAR */
+#navbar nav {
+    display: grid;
+    grid-template: 36px / auto auto auto 1fr auto auto;
+}
+
+#navbar nav a {
+    padding: 10px;
+}
+
+#navbar nav a i:hover {
+    color: #E43F5A;
+}

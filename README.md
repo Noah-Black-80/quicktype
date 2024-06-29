@@ -1,2 +1,2 @@
 # quicktype
-A website to practice your typing skills however you like. Enjoy typing practice with customizable options for length, duration, and content while tracking your progress and statistics overtime.
+A website to prove your typing skills. Challenge your typing skills in a variety of mini-games, competing against others to prove you have the fastest fingers. Earn top scores to climb the global leaderboards and earn prizes each month!
